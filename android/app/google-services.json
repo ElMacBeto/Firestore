@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "269658422154",
+    "project_id": "react-native-firebase-2f1df",
+    "storage_bucket": "react-native-firebase-2f1df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269658422154:android:1872a1fbfc123961f8e673",
+        "android_client_info": {
+          "package_name": "com.gallosv4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "269658422154-bp6aulbibk3ka0bcstkoab2j83vh9kcm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gallosv4",
+            "certificate_hash": "cb15773a5351adc401a1058d6443f85d3641790d"
+          }
+        },
+        {
+          "client_id": "269658422154-nanuvtvq32l8cff366nmb6f8mki5fj4e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyocY8Cus0HbgWhJK-stIwstZcixvOM3s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "269658422154-nanuvtvq32l8cff366nmb6f8mki5fj4e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

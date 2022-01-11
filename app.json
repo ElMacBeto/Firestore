@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "gallos-v4",
+    "slug": "gallos-v4",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "gallos-v4"
+}
